@@ -1,5 +1,5 @@
 ---
-title: Text analysis
+title: JEG SLÅR DIG KRAFTEDME IHJEL
 prev: network-analysis
 ---
 
